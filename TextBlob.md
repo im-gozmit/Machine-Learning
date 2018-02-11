@@ -45,4 +45,6 @@ Note:  these are the 'modified' tags used for Penn tree banking; these are the t
 	36.	WRB	Wh-adverb
   
   
+Good Resource to know how Sentiments Works : 
+https://www.quora.com/How-does-sentiment-analysis-work-generally
 
