@@ -39,3 +39,9 @@
 
        #To Open Spyder from Anaconda Prompt, type
           start spyder
+
+# Few good Resources and Video Links:
+
+ 1.   Really Quick Questions with an AI Researcher Andrew Trask    https://www.youtube.com/watch?v=qJ1rdVEcl5g
+ 2.   Andrew Trask Github Repo : http://iamtrask.github.io/2017/06/19/randomness/
+ 3.   
