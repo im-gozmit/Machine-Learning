@@ -19,7 +19,7 @@
    
    2. Install the Graphical Installer and it will take some time to Install so wait and get a cup of coffe :p
    
-   3. Now after complete installation now you need to configure your Anaconda:
+   3. Now after complete installation now you need to configure your Anaconda (as many libraries are outdated so its good to update all of them to the new version) :
     
      a. From Start Menu find Anaconda Prompt and open it. Wait for few minutes it will open in some time and start typing with
         i.   conda update conda 
@@ -39,9 +39,24 @@
 
        #To Open Spyder from Anaconda Prompt, type
           start spyder
+          
+# Some Good Youtubers to follow for projects related with Machine Learning :
+
+  1. Google Developers India : https://www.youtube.com/channel/UC8QMvQrV1bsK7WO37QpSxSg/videos (Few Videos of Tensorflow to watch for)
+  2. Siraj Raval : https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A (One of the best youtuber when it comes to ML and AI)
+  3. Jabrills : https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg/featured (cool guy with some good AI games knowledge)
+  4. Sentdex : https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v (A complete video series for ML using Python)
+
+# Some Twitter handles to follow for current updates on Machine Learning :
+
+  1.
 
 # Few good Resources and Video Links:
 
  1.   Really Quick Questions with an AI Researcher Andrew Trask    https://www.youtube.com/watch?v=qJ1rdVEcl5g
  2.   Andrew Trask Github Repo : http://iamtrask.github.io/2017/06/19/randomness/
  3.   
+
+
+### If you have some good resources related with Machine Learning, Data Mining and Artificial Intelligence and want to contribute here :
+First Fork this repo and update the README.md file 
